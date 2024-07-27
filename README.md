@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://memgpt.ai"><img src="https://github.com/cpacker/MemGPT/assets/5475622/80f2f418-ef92-4f7a-acab-5d642faa4991" alt="MemGPT logo"></a>
-</p>
 
 <div align="center">
 
@@ -20,7 +17,6 @@ MemGPT makes it easy to build and deploy stateful LLM agents with support for:
 
 You can also use MemGPT to deploy agents as a *service*. You can use a MemGPT server to run a multi-user, multi-agent application on top of supported LLM providers.
 
-<img width="1000" alt="image" src="https://github.com/cpacker/MemGPT/assets/8505980/1096eb91-139a-4bc5-b908-fa585462da09">
 
 
 ## Installation & Setup
